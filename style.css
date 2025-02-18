@@ -57,6 +57,10 @@
         position: relative;
         /* background-color: brown; */
     }
+
+
+
+
     .inner > .education #e1{
         /* height: 50px; */
         display: flex;
@@ -294,6 +298,9 @@
         color: white;
     
     }
+
+    
+
 
     
 
@@ -721,3 +728,5 @@ o1{
     /* background-color: brown; */
 }
 }
+
+

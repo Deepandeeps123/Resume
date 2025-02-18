@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+
+ /* .outer{
+    height: 100Vh;
+    background-color: palegoldenrod;
+ } */
+
+ .inner{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(193, 193, 241); */
+ }
+
+
+ fieldset{
+    height: 300px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    /* background-color: brown; */
+    
+ }
+
+
+.main1{
+    height: 20px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: brown; */
+}
+.main2{
+    height: 50px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    /* background-color: brown; */
+}
+
+
+form fieldset #l1 :hover{
+    /* transition: all 300ms linear; */
+    background-color: brown;
+
+}
+
+
+.main{
+    background: linear-gradient(black);
+}
+
+
